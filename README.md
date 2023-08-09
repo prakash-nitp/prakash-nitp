@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prakash-nitp
+- 👋 Hi, I’m Prakash Kumar
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
